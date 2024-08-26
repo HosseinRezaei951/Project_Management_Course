@@ -1,0 +1,12 @@
+D:\project\Project\Project\bin\Debug\Project.exe.config
+D:\project\Project\Project\bin\Debug\Project.exe
+D:\project\Project\Project\bin\Debug\Project.pdb
+D:\project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\project\Project\Project\obj\Debug\Project.exe
+D:\project\Project\Project\obj\Debug\Project.pdb
+D:\project\Project\Project\obj\Debug\Project.Login_Form.resources
+D:\project\Project\Project\obj\Debug\Project.UserLogin_UsreControl.resources
+D:\project\Project\Project\obj\Debug\Project.AdminLogin_UserControl.resources
+D:\project\Project\Project\obj\Debug\Project.UserForm.resources
+D:\project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
